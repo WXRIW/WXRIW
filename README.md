@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Lyricify
+- 🔭 I’m currently working on [Lyricify](https://github.com/WXRIW/Lyricify-App)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: wxriw@foxmail.com
 - ⚡ Secret of Life: People change people _(GMW)_
