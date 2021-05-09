@@ -5,7 +5,7 @@
 - 📫 How to reach me: wxriw@foxmail.com
 - ⚡ Secret of Life: People change people _(GMW)_
 
-![stats](https://github-readme-stats.vercel.app/api?username=wxriw&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=wxriw&show_icons=true&count_private=true)
 
 <!--
 **WXRIW/WXRIW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
