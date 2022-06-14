@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: wxriw@foxmail.com
 - ⚡ Secret of Life: People change people _(GMW)_
+- 🛒 Business: Contact me via email
 
 ![stats](https://github-readme-stats.vercel.app/api?username=wxriw&show_icons=true&count_private=true)
 
