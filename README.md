@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Lyricify](https://github.com/WXRIW/Lyricify-App) and [Ink Canvas](https://github.com/WXRIW/Ink-Canvas)
+- 🔭 I’m currently working on [Lyricify](https://github.com/WXRIW/Lyricify-App) (along with [Lyricify Lyrics Helper](https://github.com/WXRIW/Lyricify-Lyrics-Helper)) and [Ink Canvas](https://github.com/WXRIW/Ink-Canvas)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: wxriw@foxmail.com
-- ⚡ Secret of Life: People change people _(GMW)_
+- ⚡ Secret of Life: People change people
 - 🛒 Business: Contact me via email
 
 ![stats](https://github-readme-stats.vercel.app/api?username=wxriw&show_icons=true&count_private=true&theme=transparent)
